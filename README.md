@@ -1,5 +1,4 @@
-# E ticaret Veritabanı diyagramını
-E ticaret Veritabanı diyagramını
+# E ticaret Veritabanı diyagramı
 
 SQL'de Tablo Birleştirme ve JOIN
 
