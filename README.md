@@ -1,5 +1,5 @@
-# E-ticaret-veritaban-
-E ticaret veritabanı 
+# E ticaret Veritabanı diyagramını
+E ticaret Veritabanı diyagramını
 
 SQL'de Tablo Birleştirme ve JOIN
 
@@ -23,7 +23,7 @@ Primary Key sütunu olabildiğince küçük ve basit veri tipinde tanımlanmalı
 
 Foreign Key (Yabancı Anahtar) : Bir tablodaki sütunun başka tablodaki anahtara olan referansını belirler. Primary Key'den farklı olarak bir tabloda birden fazla Foreign Key olabilir.
 
-Veritabanı diyagramını inceleyerek PK - FK bağlantılarını görebilirsiniz (diyagram'ın ayrıntılı sürümünü indirmek için 
+
 
 ![alt text](https://user-images.githubusercontent.com/43292855/50606085-7b3e1580-0ed5-11e9-8300-1407cb8031ea.png)
 
